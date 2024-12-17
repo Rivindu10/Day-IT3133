@@ -10,7 +10,7 @@ export default function Index() {
       }}
     >
       <Image source={require("../assets/images/partial-react-logo.png")}
-     // style={styles.header}
+    
       />
       <Text>Hello World !</Text>
       <Text>My First ReactNative cross platform app</Text>
